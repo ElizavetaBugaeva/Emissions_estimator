@@ -1,7 +1,7 @@
 # Final_project
 Corporate Carbon Footprint Estimations using Machine Learning 
 
-The project consists of 4 parts: 
+The project consists of 3 parts: 
 1. Data Collection
    In this part publicly available data about set of 50 countries is collected from publicly available databases as well as scraped from websites such as www.macrotrends.net and companiesmarketcap.com using BeautifulSoup, cleaned and consolidated into one main dataframe.
 2. Data Analysis
