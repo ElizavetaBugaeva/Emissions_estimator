@@ -1,4 +1,4 @@
-# Final_project
+# Bootcamp_final_project
 Corporate Carbon Footprint Estimations using Machine Learning 
 
 The project consists of 3 parts: 
