@@ -1,0 +1,311 @@
+Year,COMPANY_NAME,Country,NUMBER_OF_EMPLOYEES,SCOPE_1,SCOPE_2,SCOPE 1+2,SCOPE 3,ENERGY_CONSUMPTION_TOTAL,TOTAL_WASTE_GENERATED,ISIC Division
+2016,ABBVIE INC,United States,28939,305000.0,305000.0,610000.0,Not reported,2085000.0,35700.0,Human health and social work activities
+2017,ABBVIE INC,United States,29777,299000.0,284000.0,584000.0,Not reported,2051000.0,32800.0,Human health and social work activities
+2018,ABBVIE INC,United States,30612,315000.0,271000.0,585000.0,Not reported,2146000.0,32000.0,Human health and social work activities
+2019,ABBVIE INC,United States,30776,315000.0,250000.0,564000.0,Not reported,2112000.0,33400.0,Human health and social work activities
+2020,ABBVIE INC,United States,47000,265000.0,243000.0,508000.0,Not reported,1978000.0,30600.0,Human health and social work activities
+2021,ABBVIE INC,United States,50000,367954.0,256708.0,624662.0,Not reported,2654868.0,36900.0,Human health and social work activities
+2016,ALLIANZ,Germany,42167,56856.0,417373.0,474000.0,Reported,2696330.0,21438.0,Financial and insurance activities
+2017,ALLIANZ,Germany,140553,51838.0,425376.0,477214.0,Reported,2783178.0,21474.0,Financial and insurance activities
+2018,ALLIANZ,Germany,142460,46734.0,398313.0,445047.0,Reported,2636398.0,19575.0,Financial and insurance activities
+2019,ALLIANZ,Germany,147268,42011.0,281548.0,323559.0,Reported,2536314.0,19396.0,Financial and insurance activities
+2020,ALLIANZ,Germany,150269,28714.0,366878.0,395592.0,Reported,2120288.0,14395.0,Financial and insurance activities
+2021,ALLIANZ,Germany,155411,28699.0,138746.0,167445.0,Reported,1943248.0,12064.0,Financial and insurance activities
+2021,ALPHABET INC-A,United States,156500,45073.0,1823132.0,1868205.0,Reported,18571659.0,28153.0,Information and communication
+2016,ALPHABET INC-A,United States,72053,66218.0,4421197.0,4487415.0,Reported,6513720.0,43058.0,Information and communication
+2017,ALPHABET INC-A,United States,80110,66549.0,3810726.0,3877275.0,Reported,8029410.0,53363.0,Information and communication
+2018,ALPHABET INC-A,United States,98771,63521.0,5028922.0,5092443.0,Reported,10572500.0,57113.0,Information and communication
+2019,ALPHABET INC-A,United States,118899,66686.0,5911216.0,5977902.0,Reported,12749500.0,51617.0,Information and communication
+2020,ALPHABET INC-A,United States,135301,38694.0,6776510.0,6815204.0,Reported,15439538.0,28864.0,Information and communication
+2016,AMAZON.COM INC,United States,341400,2272176.0,1818190.0,4090366.0,Not reported,,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2017,AMAZON.COM INC,United States,566000,2971922.0,2378126.0,5350048.0,Not reported,,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2018,AMAZON.COM INC,United States,647500,4980000.0,4710000.0,9690000.0,Not reported,,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2019,AMAZON.COM INC,United States,798000,5760000.0,5500000.0,11260000.0,Not reported,,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2020,AMAZON.COM INC,United States,1298000,9620000.0,5270000.0,14890000.0,Not reported,,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2021,AMAZON.COM INC,United States,1608000,12110000.0,4070000.0,16180000.0,Not reported,,30880000.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2016,APPLE,United States,116000,34370.0,41000.0,75370.0,Reported,1420000.0,2939380054.0,Manufacturing
+2017,APPLE,United States,123000,45400.0,36250.0,81650.0,Reported,1832000.0,5297313121.0,Manufacturing
+2018,APPLE,United States,132000,54590.0,8730.0,63320.0,Reported,2181000.0,5202410798.0,Manufacturing
+2019,APPLE,United States,137000,52730.0,0.0,52730.0,Reported,2427000.0,5748355965.0,Manufacturing
+2020,APPLE,United States,147000,47430.0,0.0,47430.0,Reported,2580000.0,4499168605.0,Manufacturing
+2021,APPLE,United States,154000,55202.0,1006029.0,1061231.0,Reported,28540000.0,5166081299.0,Manufacturing
+2016,AT&T,United States,268540,1080000.0,6700000.0,7780000.0,Not reported,20000000.0,,Information and communication
+2017,AT&T,United States,254000,1070000.0,6950000.0,8020235.98,Not reported,19500000.0,201395.0,Information and communication
+2018,AT&T,United States,268220,1020000.0,6660000.0,7749419.54,Not reported,18700000.0,191865.0,Information and communication
+2019,AT&T,United States,247800,990000.0,5530000.0,6525122.31,Not reported,17900000.0,245645.0,Information and communication
+2020,AT&T,United States,230760,1040000.0,4700000.0,5740000.0,Reported,17500000.0,199749.0,Information and communication
+2021,AT&T,United States,203000,997129.0,4600000.0,5597129.0,Reported,17000000.0,190223.0,Information and communication
+2021,AXA,France,114749,23362.0,56767.0,80129.0,Not reported,233927.0,4289.0,Financial and insurance activities
+2016,AXA,France,115819,34246.0,57289.0,91535.0,Not reported,404466.0,8960.0,Financial and insurance activities
+2017,AXA,France,115328,32950.0,55120.0,88070.0,Not reported,363283.0,7889.0,Financial and insurance activities
+2018,AXA,France,124355,38778.0,69160.0,107938.0,Not reported,344684.0,7735.0,Financial and insurance activities
+2019,AXA,France,121337,37889.0,62765.0,100654.0,Not reported,305484.0,6935.0,Financial and insurance activities
+2020,AXA,France,117623,26292.0,40894.0,67186.0,Not reported,260992.0,5430.0,Financial and insurance activities
+2016,BANK OF AMERICA CORP,United States,210247,84825.0,967811.0,1052636.0,Reported,,113191.0,Financial and insurance activities
+2017,BANK OF AMERICA CORP,United States,209376,59451.0,836052.0,895503.0,Reported,,100657.0,Financial and insurance activities
+2018,BANK OF AMERICA CORP,United States,204489,62258.0,789565.0,851823.0,Reported,,95089.0,Financial and insurance activities
+2019,BANK OF AMERICA CORP,United States,208131,62639.0,791409.0,854048.0,Reported,,103428.0,Financial and insurance activities
+2020,BANK OF AMERICA CORP,United States,213000,53390.0,650553.0,703943.0,Reported,,76752.0,Financial and insurance activities
+2021,BANK OF AMERICA CORP,United States,208000,57076.0,601906.0,658982.0,Reported,,67282.0,Financial and insurance activities
+2021,BERKSHIRE HATHAWAY B,United States,371653,732137.0,542205.0,1274342.0,Not reported,,,"Electricity, gas, steam and air conditioning supply"
+2016,BERKSHIRE HATHAWAY B,United States,367671,732137.0,542198.0,1274335.0,Not reported,,,"Electricity, gas, steam and air conditioning supply"
+2017,BERKSHIRE HATHAWAY B,United States,377291,732137.0,542201.0,1274338.0,Not reported,,,"Electricity, gas, steam and air conditioning supply"
+2018,BERKSHIRE HATHAWAY B,United States,389373,732137.0,542202.0,1274339.0,Not reported,,,"Electricity, gas, steam and air conditioning supply"
+2019,BERKSHIRE HATHAWAY B,United States,391539,732137.0,542203.0,1274340.0,Not reported,,,"Electricity, gas, steam and air conditioning supply"
+2020,BERKSHIRE HATHAWAY B,United States,360000,732137.0,542202.0,1274339.0,Not reported,,,"Electricity, gas, steam and air conditioning supply"
+2021,BMW STAMM,Germany,118909,699713.0,134849.0,834562.0,Not reported,6476955.0,829498.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2016,BMW STAMM,Germany,124729,562146.0,868089.0,1430235.0,Not reported,5783841.0,762924.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2017,BMW STAMM,Germany,129932,625072.0,510911.0,1135983.0,Not reported,5852666.0,785209.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2018,BMW STAMM,Germany,134682,581703.0,538622.0,1120325.0,Not reported,5788965.0,789817.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2019,BMW STAMM,Germany,126016,642259.0,302574.0,944833.0,Not reported,5974625.0,780911.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2020,BMW STAMM,Germany,120726,678967.0,130090.0,809057.0,Not reported,6040824.0,775459.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2021,BP,United States,65900,33200000.0,2400000.0,35600000.0,Not reported,128805000.0,370100.0,Mining and quarrying
+2016,BP,United States,74500,51400000.0,6200000.0,57600000.0,Not reported,,242400.0,Mining and quarrying
+2017,BP,United States,74000,50500000.0,6100000.0,56600000.0,Not reported,,286500.0,Mining and quarrying
+2018,BP,United States,73000,48800000.0,5400000.0,54200000.0,Not reported,209722239.0,241500.0,Mining and quarrying
+2019,BP,United States,70100,49200000.0,5200000.0,54400000.0,Not reported,211111128.0,228300.0,Mining and quarrying
+2020,BP,United States,63600,41700000.0,3800000.0,45500000.0,Not reported,180460000.0,406300.0,Mining and quarrying
+2018,CHEVRON CORP,United States,48638,68000000.0,2000000.0,70000000.0,Not reported,1718000000000.0,,Mining and quarrying
+2019,CHEVRON CORP,United States,48155,63000000.0,1000000.0,64000000.0,Not reported,1674000000000.0,,Mining and quarrying
+2020,CHEVRON CORP,United States,47736,56000000.0,1000000.0,57000000.0,Not reported,1552000000000.0,,Mining and quarrying
+2021,CHEVRON CORP,United States,42595,57000000.0,2000000.0,59000000.0,Not reported,1568000000000.0,,Mining and quarrying
+2016,CHEVRON CORP,United States,51953,66000000.0,10000000.0,434000000.0,Reported,,,Mining and quarrying
+2017,CHEVRON CORP,United States,51754,67000000.0,9000000.0,447000000.0,Reported,1490000000000.0,,Mining and quarrying
+2016,China Construction Bank,China,362482,4100.19,105820.03,109920.22,Not reported,,,Financial and insurance activities
+2017,China Construction Bank,China,352621,18576.91,258872.22,277449.13,Not reported,,,Financial and insurance activities
+2018,China Construction Bank,China,345971,17518.07,244028.93,261547.0,Not reported,,,Financial and insurance activities
+2019,China Construction Bank,China,347156,115242.34,1459672.38,1574914.66,Not reported,,,Financial and insurance activities
+2020,China Construction Bank,China,349671,88906.1,1392317.22,1481223.32,Not reported,,,Financial and insurance activities
+2021,China Construction Bank,China,351252,127378.31,1516076.17,1643454.48,Not reported,,,Financial and insurance activities
+2016,CHINA MOBILE,China,460647,350000.0,14030000.0,14380000.0,Not reported,,,Information and communication
+2017,CHINA MOBILE,China,464656,330000.0,15650000.0,15980000.0,Not reported,,,Information and communication
+2018,CHINA MOBILE,China,459152,310000.0,15860000.0,16170000.0,Not reported,,29594.0,Information and communication
+2019,CHINA MOBILE,China,456239,280000.0,17040000.0,17320000.0,Not reported,,71400.0,Information and communication
+2020,CHINA MOBILE,China,454332,240000.0,33910000.0,34150000.0,Not reported,,63200.0,Information and communication
+2021,CHINA MOBILE,China,449934,240000.0,33580000.0,33820000.0,Not reported,,76700.0,Information and communication
+2016,COMCAST CORP A (NEW),United States,159000,427567.0,1266984.0,1694551.0,Not reported,,,Information and communication
+2017,COMCAST CORP A (NEW),United States,164000,452167.0,1339880.0,1792047.0,Not reported,,,Information and communication
+2018,COMCAST CORP A (NEW),United States,184000,502569.0,1489233.0,1991802.0,Not reported,,,Information and communication
+2019,COMCAST CORP A (NEW),United States,190000,676422.0,1863480.0,2539902.0,Not reported,7129369.0,,Information and communication
+2020,COMCAST CORP A (NEW),United States,168000,547084.0,1743564.0,2290648.0,Not reported,6504762.0,,Information and communication
+2021,COMCAST CORP A (NEW),United States,189000,519288.0,1551747.0,2071035.0,Not reported,6098203.0,,Information and communication
+2016,CVS HEALTH,United States,248224,198047.0,1285716.0,1483763.0,Not reported,2600000.0,,Human health and social work activities
+2017,CVS HEALTH,United States,243544,206086.0,1131013.0,1337099.0,Not reported,2700000.0,,Human health and social work activities
+2018,CVS HEALTH,United States,243000,177347.0,1096724.0,1274071.0,Not reported,2850000.0,,Human health and social work activities
+2019,CVS HEALTH,United States,288154,157114.0,1024682.0,1181796.0,Not reported,2600000.0,,Human health and social work activities
+2020,CVS HEALTH,United States,299980,165384.0,977380.0,1142764.0,Not reported,3041400.0,,Human health and social work activities
+2021,CVS HEALTH,United States,321807,188257.0,881786.0,1070043.0,Not reported,,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2016,DAIMLER,Germany,282488,1056000.0,1882000.0,2938000.0,Not reported,10895000.0,1229000.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2017,DAIMLER,Germany,289321,1192000.0,1763000.0,2955000.0,Not reported,11340000.0,1269000.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2018,DAIMLER,Germany,298683,1247000.0,1687000.0,2934000.0,Not reported,11607000.0,1328000.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2019,DAIMLER,Germany,298655,1239000.0,1276000.0,2515000.0,Not reported,11287000.0,1249000.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2020,DAIMLER,Germany,288481,1027000.0,1035000.0,2062000.0,Not reported,9711000.0,1025000.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2021,DAIMLER,Germany,172425,681000.0,466000.0,1147000.0,Not reported,6786000.0,651000.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2016,DEUTSCHE TELEKOM,Germany,221000,290541.0,3878321.0,4168862.0,Not reported,8500000.0,66960.0,Information and communication
+2017,DEUTSCHE TELEKOM,Germany,216000,284510.0,2611055.0,2895565.0,Not reported,8900000.0,58706.0,Information and communication
+2018,DEUTSCHE TELEKOM,Germany,216000,276727.0,2077415.0,2354142.0,Not reported,9200000.0,60762.0,Information and communication
+2019,DEUTSCHE TELEKOM,Germany,213000,256476.0,1545541.0,1802017.0,Reported,9300000.0,69203.0,Information and communication
+2020,DEUTSCHE TELEKOM,Germany,226291,235261.0,15023000.0,15258261.0,Reported,12800000.0,70528.0,Information and communication
+2021,DEUTSCHE TELEKOM,Germany,216528,218731.0,16393000.0,16611731.0,Reported,13300000.0,86636.0,Information and communication
+2018,ENI,Italy,1345,2758000.0,31009.0,2789009.0,Not reported,,,Mining and quarrying
+2019,ENI,Italy,1537,4514944.0,172399.0,4687343.0,Not reported,,,Mining and quarrying
+2020,ENI,Italy,2092,37760000.0,730000.0,38490000.0,Reported,,,Mining and quarrying
+2021,ENI,Italy,2464,40080000.0,810000.0,40890000.0,Reported,,,Mining and quarrying
+2016,EXXON MOBIL CORP,United States,71000,105000000.0,8000000.0,113000000.0,Not reported,1500000000.0,,Mining and quarrying
+2017,EXXON MOBIL CORP,United States,70000,100000000.0,9000000.0,109000000.0,Not reported,1400000000.0,,Mining and quarrying
+2018,EXXON MOBIL CORP,United States,71000,101000000.0,9000000.0,110000000.0,Not reported,1500000000.0,,Mining and quarrying
+2019,EXXON MOBIL CORP,United States,75000,97000000.0,9000000.0,106000000.0,Not reported,4166666667.0,,Mining and quarrying
+2020,EXXON MOBIL CORP,United States,72000,92000000.0,7000000.0,99000000.0,Not reported,1500000000.0,,Mining and quarrying
+2021,EXXON MOBIL CORP,United States,63000,92000000.0,7000000.0,99000000.0,Not reported,,,Mining and quarrying
+2016,FACEBOOK INC-A,United States,17048,9000.0,545000.0,554000.0,Reported,,,Information and communication
+2017,FACEBOOK INC-A,United States,25105,25000.0,591000.0,616000.0,Reported,,,Information and communication
+2018,FACEBOOK INC-A,United States,33587,42000.0,314000.0,356000.0,Reported,,,Information and communication
+2019,FACEBOOK INC-A,United States,44942,44000.0,208000.0,252000.0,Reported,,,Information and communication
+2020,FACEBOOK INC-A,United States,58604,29000.0,9000.0,38000.0,Reported,,,Information and communication
+2021,FACEBOOK INC-A,United States,71970,55000.0,2000.0,57000.0,Reported,,,Information and communication
+2021,FORD MOTOR CO,United States,182789,1080000.0,2070000.0,3150000.0,Not reported,9840000.0,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2016,FORD MOTOR CO,United States,201000,1300000.0,3310000.0,4610000.0,Not reported,,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2017,FORD MOTOR CO,United States,202275,1320000.0,3120000.0,4440000.0,Not reported,,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2018,FORD MOTOR CO,United States,198964,1270000.0,3110000.0,4380000.0,Not reported,13800000.0,1360000.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2019,FORD MOTOR CO,United States,190433,1140000.0,2600000.0,3740000.0,Not reported,12970000.0,1216000.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2020,FORD MOTOR CO,United States,186401,940000.0,2020000.0,2960000.0,Not reported,10440000.0,986000.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2021,HSBC HOLDINGS (GB),UK,172400,22000.0,307000.0,329000.0,Not reported,27080563.0,,Financial and insurance activities
+2016,HSBC HOLDINGS (GB),UK,235175,25719.0,444110.0,529000.0,Not reported,1250000.0,26000.0,Financial and insurance activities
+2017,HSBC HOLDINGS (GB),UK,228687,27648.0,445352.0,473000.0,Not reported,1134000.0,25000.0,Financial and insurance activities
+2018,HSBC HOLDINGS (GB),UK,240578,26403.0,410597.0,437000.0,Not reported,1092000.0,23000.0,Financial and insurance activities
+2019,HSBC HOLDINGS (GB),UK,240946,28025.0,385975.0,414000.0,Not reported,1049000.0,21000.0,Financial and insurance activities
+2020,HSBC HOLDINGS (GB),UK,231040,25228.0,337772.0,363000.0,Not reported,928000.0,17000.0,Financial and insurance activities
+2016,INTEL CORP,United States,106000,976000.0,644000.0,1620000.0,Not reported,6500000.0,177000.0,Information and communication
+2017,INTEL CORP,United States,102700,1490000.0,970000.0,2460000.0,Not reported,7330000.0,183000.0,Information and communication
+2018,INTEL CORP,United States,107400,1458000.0,1122000.0,2580000.0,Not reported,8340000.0,205000.0,Information and communication
+2019,INTEL CORP,United States,110800,1489000.0,1301000.0,2790000.0,Not reported,9570000.0,387000.0,Information and communication
+2020,INTEL CORP,United States,110600,1973000.0,909000.0,2882000.0,Not reported,10650000.0,414000.0,Information and communication
+2021,INTEL CORP,United States,121100,2181000.0,1093000.0,3274000.0,Not reported,,344000.0,Information and communication
+2016,JOHNSON&JOHNSON,United States,126400,463622.0,416612.0,880234.0,Not reported,3558610.0,125526.0,Human health and social work activities
+2017,JOHNSON&JOHNSON,United States,134000,474497.0,396612.0,871109.0,Reported,3523610.0,137732.0,Human health and social work activities
+2018,JOHNSON&JOHNSON,United States,135100,452407.0,305578.0,757985.0,Reported,3668890.0,141770.0,Human health and social work activities
+2019,JOHNSON&JOHNSON,United States,132200,415094.0,264108.0,679202.0,Reported,3528330.0,141848.0,Human health and social work activities
+2020,JOHNSON&JOHNSON,United States,136400,363924.0,229809.0,593733.0,Reported,3320556.0,129090.0,Human health and social work activities
+2016,JPMORGAN CHASE & CO,United States,243355,79556.0,780710.0,860266.0,Not reported,2240399.0,,Financial and insurance activities
+2017,JPMORGAN CHASE & CO,United States,252539,78229.0,596843.0,675072.0,Not reported,2124700.0,,Financial and insurance activities
+2018,JPMORGAN CHASE & CO,United States,256105,83101.0,572067.0,655168.0,Not reported,2127810.0,,Financial and insurance activities
+2019,JPMORGAN CHASE & CO,United States,256981,81655.0,556142.0,637797.0,Not reported,2082280.0,,Financial and insurance activities
+2020,JPMORGAN CHASE & CO,United States,255351,69570.0,4187.0,73757.0,Not reported,1942728.0,,Financial and insurance activities
+2021,JPMORGAN CHASE & CO,United States,271025,84911.0,785272.0,870183.0,Not reported,2437515.0,,Financial and insurance activities
+2016,LVMH MOET HENNE,France,134476,62657.0,322972.0,385629.0,Not reported,1148570.0,80787.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2017,LVMH MOET HENNE,France,145247,87241.0,292070.0,379312.0,Not reported,1189280.0,78550.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2018,LVMH MOET HENNE,France,156088,96030.0,288092.0,384123.0,Not reported,1277080.0,99495.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2019,LVMH MOET HENNE,France,163309,69152.0,294810.03,363963.0,Not reported,1278600.0,95620.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2020,LVMH MOET HENNE,France,150479,63909.0,240421.0,304330.0,Not reported,1149660.0,80690.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2021,LVMH MOET HENNE,France,175647,71390.0,304349.4,375740.0,Not reported,1367340.0,113580.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2016,MICROSOFT CORP,United States,114000,94651.0,2139402.0,2234053.0,Not reported,,,Information and communication
+2017,MICROSOFT CORP,United States,124000,107452.0,2697554.0,2805006.0,Not reported,6756779.0,23870.0,Information and communication
+2018,MICROSOFT CORP,United States,131000,99008.0,2946043.0,3045051.0,Not reported,7781383.0,17661.0,Information and communication
+2019,MICROSOFT CORP,United States,144000,117956.0,3557518.0,3675474.0,Not reported,9249361.0,31644.0,Information and communication
+2020,MICROSOFT CORP,United States,163000,118100.0,4102445.0,4220545.0,Not reported,10757166.0,31101.0,Information and communication
+2021,MICROSOFT CORP,United States,181000,123704.0,4745197.0,4868901.0,Not reported,13481863.0,20768.0,Information and communication
+2016,NESTLE SA-REG,Switzerland,328221,3600000.0,3000000.0,6600000.0,Not reported,39472300.0,,Accommodation and food service activities
+2017,NESTLE SA-REG,Switzerland,322887,3500000.0,3000000.0,6500000.0,Not reported,37750000.0,,Accommodation and food service activities
+2018,NESTLE SA-REG,Switzerland,308301,3300000.0,2500000.0,5800000.0,Not reported,35472300.0,,Accommodation and food service activities
+2019,NESTLE SA-REG,Switzerland,275628,3300000.0,2300000.0,5600000.0,Not reported,35361100.0,,Accommodation and food service activities
+2020,NESTLE SA-REG,Switzerland,268350,3300000.0,1900000.0,5200000.0,Not reported,,,Accommodation and food service activities
+2021,NESTLE SA-REG,Switzerland,257031,3370000.0,2640193.0,6010193.0,Not reported,,1568228.0,Accommodation and food service activities
+2019,Petrochina,China,460700,132170000.0,41910000.0,174080000.0,Not reported,708511230.0,,Mining and quarrying
+2020,Petrochina,China,432003,127570000.0,39870000.0,167440000.0,Not reported,720478500.0,,Mining and quarrying
+2021,Petrochina,China,417200,121390000.0,38150000.0,159540000.0,Not reported,,2603000.0,Mining and quarrying
+2016,PFIZER,United States,96500,940953.0,1106920.0,2047873.0,Not reported,,,Human health and social work activities
+2017,PFIZER,United States,90200,788838.0,859691.0,1648529.0,Not reported,,164000.0,Human health and social work activities
+2018,PFIZER,United States,92400,756964.0,919786.0,1676750.0,Not reported,5658241.0,161400.0,Human health and social work activities
+2019,PFIZER,United States,88300,697313.0,605271.0,1302584.0,Not reported,,41200.0,Human health and social work activities
+2020,PFIZER,United States,78500,654460.0,551577.0,1206037.0,Not reported,4499278.0,168100.0,Human health and social work activities
+2021,PFIZER,United States,79000,662438.0,1339701.0,1172000.0,Not reported,,40100.0,Human health and social work activities
+2021,PING AN INS A (HK-C),China,355982,6121.76,376336.09,382457.85,Not reported,,210773.0,Financial and insurance activities
+2017,PING AN INS A (HK-C),China,342600,3774.0,123860.0,127634.0,Not reported,,9186.0,Financial and insurance activities
+2018,PING AN INS A (HK-C),China,376900,3774.0,123860.0,127634.0,Not reported,,8957.0,Financial and insurance activities
+2019,PING AN INS A (HK-C),China,376900,7156.0,720605.0,727761.0,Not reported,,309631.0,Financial and insurance activities
+2020,PING AN INS A (HK-C),China,361600,2114.51,478287.47,480401.98,Not reported,,331125.0,Financial and insurance activities
+2021,PJSC Gazprom,Russia,479200,119870000.0,4700000.0,124570000.0,Not reported,,290760.0,Mining and quarrying
+2016,PJSC Gazprom,Russia,467400,101240000.0,4508363.0,105748363.0,Not reported,,273650.0,Mining and quarrying
+2017,PJSC Gazprom,Russia,469600,113170000.0,5540559.0,118710559.0,Not reported,,260700.0,Mining and quarrying
+2018,PJSC Gazprom,Russia,466100,120090000.0,8210000.0,128300000.0,Not reported,,285900.0,Mining and quarrying
+2019,PJSC Gazprom,Russia,473800,117090000.0,6080000.0,123170000.0,Not reported,,264240.0,Mining and quarrying
+2020,PJSC Gazprom,Russia,477600,100970000.0,4770000.0,105740000.0,Not reported,,272240.0,Mining and quarrying
+2016,PROCTER & GAMBLE,United States,105000,2133000.0,2770000.0,4903000.0,Not reported,16389020.0,640000.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2017,PROCTER & GAMBLE,United States,95000,2122000.0,2437000.0,4559000.0,Not reported,16666800.0,632000.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2018,PROCTER & GAMBLE,United States,92000,2143000.0,1910000.0,4053000.0,Not reported,16944580.0,624000.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2019,PROCTER & GAMBLE,United States,97000,2210000.0,1840000.0,4050000.0,Not reported,16944580.0,655000.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2021,PROCTER & GAMBLE,United States,101000,2242000.0,156000.0,2398000.0,Not reported,,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2015,Puma,Germany,11351,7296000.0,35591000.0,42887000.0,Reported,,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2016,Puma,Germany,11495,6854000.0,37300000.0,44154000.0,Reported,,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2017,Puma,Germany,11787,7678000.0,40029000.0,47707000.0,Reported,235140995.0,5293.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2018,Puma,Germany,12894,6918000.0,43366000.0,50284000.0,Reported,,4877.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2019,Puma,Germany,14332,6326000.0,40986000.0,47312000.0,Reported,256254687.0,3644.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2020,Puma,Germany,13016,4176000.0,29839000.0,34015000.0,Reported,339404126.0,3949.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2021,Puma,Germany,14846,4046000.0,32545000.0,36591000.0,Reported,,5215.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2016,Reliance Industries,India,24121,22446185.0,673289.0,23119474.0,Not reported,,,Mining and quarrying
+2017,Reliance Industries,India,24167,24437399.0,733017.0,25170416.0,Not reported,,,Mining and quarrying
+2018,Reliance Industries,India,29533,31500000.0,820000.0,32320000.0,Not reported,,909990.0,Mining and quarrying
+2019,Reliance Industries,India,28967,29360000.0,1140000.0,30500000.0,Not reported,,798600.0,Mining and quarrying
+2020,Reliance Industries,India,26488,47500000.0,1450000.0,48950000.0,Not reported,,606600.0,Mining and quarrying
+2022,Reliance Industries,India,342982,43960000.0,1190000.0,45150000.0,Not reported,,,Mining and quarrying
+2021,Reliance Industries,India,236334,44670000.0,1250000.0,45920000.0,Not reported,,,Mining and quarrying
+2016,Samsung Electronics Co,South Korea,277000,2554000.0,9556000.0,12110000.0,Not reported,21073000.0,1078310.0,Manufacturing
+2017,Samsung Electronics Co,South Korea,282000,3704500.0,9405500.0,13110000.0,Not reported,23419000.0,1146810.0,Manufacturing
+2018,Samsung Electronics Co,South Korea,287000,4855000.0,11125000.0,15980000.0,Not reported,26028000.0,1210520.0,Manufacturing
+2019,Samsung Electronics Co,South Korea,292000,5067000.0,10933000.0,16000000.0,Not reported,26899000.0,1099197.0,Manufacturing
+2020,Samsung Electronics Co,South Korea,297000,5726000.0,11504000.0,17230000.0,Not reported,29024000.0,1181741.0,Manufacturing
+2021,Samsung Electronics Co,South Korea,302000,7604000.0,12566000.0,19200000.0,Not reported,32322000.0,1324972.0,Manufacturing
+2019,SAUDI ARAMCO,Saudi Arabia,82000,52000000.0,19000000.0,71000000.0,Not reported,,232000.0,Mining and quarrying
+2020,SAUDI ARAMCO,Saudi Arabia,83900,50200000.0,18100000.0,68300000.0,Not reported,,231000.0,Mining and quarrying
+2021,SAUDI ARAMCO,Saudi Arabia,85800,55300000.0,15500000.0,70800000.0,Not reported,,158000.0,Mining and quarrying
+2016,Shell Plc,United Kingdom,91000,72000000.0,11500000.0,72000000.0,Not reported,266000000.0,2148000.0,Mining and quarrying
+2017,Shell Plc,United Kingdom,86000,73000000.0,11000000.0,73000000.0,Reported,269000000.0,2020000.0,Mining and quarrying
+2018,Shell Plc,United Kingdom,82000,71000000.0,10000000.0,71000000.0,Reported,268000000.0,1999000.0,Mining and quarrying
+2019,Shell Plc,United Kingdom,87000,70000000.0,9000000.0,79000000.0,Reported,264000000.0,2113000.0,Mining and quarrying
+2020,Shell Plc,United Kingdom,87000,63000000.0,8500000.0,63000000.0,Not reported,241000000.0,2049000.0,Mining and quarrying
+2021,Shell Plc,United Kingdom,82000,91000000.0,10937254.0,101937254.0,Reported,223000000.0,1993000.0,Mining and quarrying
+2016,SOFTBANK GROUP CORP,Japan,63591,11456.0,785893.0,797349.0,Not reported,,,Information and communication
+2017,SOFTBANK GROUP CORP,Japan,19408,11386.0,711128.0,722514.0,Not reported,1418791.0,,Information and communication
+2018,SOFTBANK GROUP CORP,Japan,19993,11456.0,682497.0,693953.0,Not reported,1355703.0,,Information and communication
+2019,SOFTBANK GROUP CORP,Japan,27568,14454.0,760305.0,774759.0,Not reported,1644234.0,,Information and communication
+2020,SOFTBANK GROUP CORP,Japan,29212,15803.0,760301.0,776104.0,Not reported,1680530.0,,Information and communication
+2021,SOFTBANK GROUP CORP,Japan,54778,15416.0,605513.0,620929.0,Not reported,2263151.0,,Information and communication
+2022,SOFTBANK GROUP CORP,Japan,59721,12052.0,708450.0,720502.0,Not reported,2262843.0,,Information and communication
+2016,SONY CORP,Japan,125300,299974.0,1263190.0,1563164.0,Not reported,,60117.0,Manufacturing
+2017,SONY CORP,Japan,128400,269279.0,1084907.0,1354186.0,Not reported,,50007.0,Manufacturing
+2018,SONY CORP,Japan,117300,234291.0,1156316.0,1390607.0,Not reported,23000000.0,54544.0,Manufacturing
+2019,SONY CORP,Japan,114400,187123.0,1151882.0,1339006.0,Not reported,24000000.0,48799.0,Manufacturing
+2020,SONY CORP,Japan,111700,187829.0,1188286.0,1376115.0,Not reported,24000000.0,48186.0,Manufacturing
+2021,SONY CORP,Japan,109700,189000.0,1204000.0,1393000.0,Not reported,,51362.0,Manufacturing
+2016,TAIWAN SEMICONDUCTOR,Taiwan,46968,2035510.0,5378443.0,7413953.0,Not reported,9848000.0,298761.0,Information and communication
+2017,TAIWAN SEMICONDUCTOR,Taiwan,48602,2075928.0,6080212.0,8156140.0,Not reported,12016000.0,369745.0,Information and communication
+2018,TAIWAN SEMICONDUCTOR,Taiwan,48752,2125725.0,6349642.0,8475367.0,Not reported,13167000.0,393784.0,Information and communication
+2019,TAIWAN SEMICONDUCTOR,Taiwan,51297,2071743.0,6697872.0,8769614.0,Not reported,14323000.0,416715.0,Information and communication
+2020,TAIWAN SEMICONDUCTOR,Taiwan,56831,2450350.0,7459856.0,9910210.0,Not reported,16919000.0,575740.0,Information and communication
+2021,TAIWAN SEMICONDUCTOR,Taiwan,65152,2151937.0,8152497.0,10304434.0,Not reported,19192000.0,674703.0,Information and communication
+2016,TENCENT,China,38775,1530.0,344650.0,346180.0,Not reported,,,Information and communication
+2017,TENCENT,China,44796,2783.79,573876.0,576659.79,Not reported,866714.0,,Information and communication
+2018,TENCENT,China,54309,2590.31,712762.0,715352.31,Not reported,,,Information and communication
+2019,TENCENT,China,62885,4101.08,852686.0,856787.08,Not reported,,,Information and communication
+2020,TENCENT,China,51350,4089.79,926675.8,930765.59,Not reported,,,Information and communication
+2021,TENCENT,China,68226,19000.0,2349000.0,2368000.0,Not reported,4375253.0,29850.0,Information and communication
+2016,TOTAL,France,102168,41000000.0,4000000.0,45000000.0,Not reported,150000000.0,363000.0,Mining and quarrying
+2017,TOTAL,France,98277,38000000.0,4000000.0,42000000.0,Not reported,142000000.0,427000.0,Mining and quarrying
+2018,TOTAL,France,104460,40000000.0,4000000.0,44000000.0,Not reported,143000000.0,379000.0,Mining and quarrying
+2019,TOTAL,France,107776,41000000.0,4000000.0,45000000.0,Not reported,160000000.0,375000.0,Mining and quarrying
+2020,TOTAL,France,105476,38000000.0,3000000.0,41000000.0,Not reported,147000000.0,303000.0,Mining and quarrying
+2021,TOTAL,France,101309,34000000.0,2000000.0,36000000.0,Not reported,148000000.0,335000.0,Mining and quarrying
+2016,TOYOTA MOTOR CORP,Japan,348877,2490000.0,5080000.0,7570000.0,Not reported,,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2017,TOYOTA MOTOR CORP,Japan,364445,1750000.0,4190000.0,7810000.0,Not reported,,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2018,TOYOTA MOTOR CORP,Japan,369124,1920000.0,4080000.0,7790000.0,Not reported,,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2019,TOYOTA MOTOR CORP,Japan,370870,1900000.0,3780000.0,7650000.0,Not reported,19444446.0,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2020,TOYOTA MOTOR CORP,Japan,359542,1640000.0,3260000.0,5680000.0,Not reported,,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2021,TOYOTA MOTOR CORP,Japan,366283,1928167.0,4496359.0,6424526.0,Not reported,,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2019,UNITEDHEALTH GRP,United States,325000,17709.0,149418.0,167127.0,Not reported,,7964.0,Human health and social work activities
+2020,UNITEDHEALTH GRP,United States,330000,24487.0,148741.0,173228.0,Not reported,381692.0,6709.0,Human health and social work activities
+2021,UNITEDHEALTH GRP,United States,350000,97537.0,290463.0,388000.0,Not reported,1151438.0,7099.0,Human health and social work activities
+2018,UNITEDHEALTH GRP,United States,300000,13933.0,155700.0,169633.0,Not reported,365005.0,15521.0,Human health and social work activities
+2016,VERIZON COMMUNICATIONS,United States,160900,372496.0,5259727.0,5632223.0,Not reported,,,Information and communication
+2017,VERIZON COMMUNICATIONS,United States,155400,376735.0,4522261.0,4898996.0,Not reported,,,Information and communication
+2018,VERIZON COMMUNICATIONS,United States,144953,385241.0,4033579.0,4418820.0,Not reported,,,Information and communication
+2019,VERIZON COMMUNICATIONS,United States,135670,358753.0,4006874.0,4365627.0,Not reported,,,Information and communication
+2020,VERIZON COMMUNICATIONS,United States,132200,336831.0,3753660.0,4090491.0,Not reported,,,Information and communication
+2021,VERIZON COMMUNICATIONS,United States,118400,380419.0,4492040.0,4872459.0,Not reported,,,Information and communication
+2016,VOLKSWAGEN VORZUG,Germany,626715,4230000.0,5280000.0,9510000.0,Not reported,23500000.0,3112108.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2017,VOLKSWAGEN VORZUG,Germany,642292,4040000.0,4910000.0,9090000.0,Not reported,24200000.0,3220574.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2018,VOLKSWAGEN VORZUG,Germany,655722,3910000.0,4290000.0,8210000.0,Not reported,24120000.0,3302955.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2019,VOLKSWAGEN VORZUG,Germany,671205,4400000.0,3800000.0,7570000.0,Not reported,23420000.0,3135573.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2020,VOLKSWAGEN VORZUG,Germany,662575,4340000.0,2800000.0,7140000.0,Not reported,21590000.0,2489035.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2021,VOLKSWAGEN VORZUG,Germany,672789,4740000.0,2420000.0,7160000.0,Not reported,21980000.0,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2016,WALMART,United States,2300000,14080000.0,6650000.0,20730000.0,Not reported,,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2017,WALMART,United States,2300000,6523390.0,6520000.0,13043390.0,Not reported,44291504.0,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2018,WALMART,United States,2300000,6101641.0,6100000.0,12201641.0,Not reported,43150528.0,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2019,WALMART,United States,2200000,6484616.0,12160000.0,18644616.0,Not reported,42589868.0,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2020,WALMART,United States,2200000,7236499.0,12020000.0,19256499.0,Not reported,41676262.0,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2021,WALMART,United States,2300000,7370161.0,9618958.0,16989119.0,Not reported,38333336.0,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2016,Zalando SE,Germany,11998,3868000.0,26048000.0,29916000.0,Reported,57342.0,16505.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2017,Zalando SE,Germany,15091,4935000.0,21290000.0,26225000.0,Reported,84402.0,17694.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2018,Zalando SE,Germany,15619,5701000.0,1678000.0,7379000.0,Reported,104011.0,18914.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2019,Zalando SE,Germany,13763,5904000.0,2271000.0,8175000.0,Reported,131758.0,22114.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2020,Zalando SE,Germany,14194,8191000.0,1125000.0,9316000.0,Reported,,25170.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2021,Zalando SE,Germany,17043,769000.0,2414000.0,3183000.0,Reported,183057.0,31058.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2015,Unilever,United Kingdom,219697,890801.0,1071076.0,1961877.0,Not reported,833.0,13000.0,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2016,Unilever,United Kingdom,169000,882973.0,1007953.0,1890926.0,Not reported,27267621.0,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2017,Unilever,United Kingdom,161000,820355.0,938944.0,1759299.0,Not reported,26507528.0,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2018,Unilever,United Kingdom,155000,758232.0,893825.0,1652057.0,Not reported,25907758.0,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2019,Unilever,United Kingdom,150000,659028.0,469063.0,1128091.0,Not reported,23932970.0,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2020,Unilever,United Kingdom,149000,606771.0,216740.0,823511.0,Not reported,23547483.0,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2021,Unilever,United Kingdom,148044,565988.0,144752.0,710740.0,Not reported,23566289.0,,Wholesale and retail trade; repair of motor vehicles and motorcycles
+2016,Adobe,United States,15706,11082.0,86288.0,97370.0,Reported,212931.0,1111.0,Information and communication
+2017,Adobe,United States,17973,11361.0,84697.0,96058.0,Reported,237959.0,1669.0,Information and communication
+2018,Adobe,United States,21357,12119.0,106745.0,118864.0,Reported,233248.0,1493.0,Information and communication
+2019,Adobe,United States,22634,11817.0,100021.0,111838.0,Reported,221486.0,1850.0,Information and communication
+2020,Adobe,United States,22616,9598.0,46700.0,56298.0,Reported,208187.0,803.0,Information and communication
+2021,Adobe,United States,26000,4923.0,89367.0,94290.0,Reported,237468.0,1189.0,Information and communication
+2015,HP,United States,302000,162620.0,697000.0,859620.0,Reported,859620.0,28100.0,Information and communication
+2016,HP,United States,49000,155682.0,584000.0,739682.0,Reported,739682.0,33360.0,Information and communication
+2017,HP,United States,49000,165138.0,641983.0,807121.0,Reported,807122.0,34910.0,Information and communication
+2018,HP,United States,55000,164075.0,594823.0,758898.0,Not reported,758898.0,38900.0,Information and communication
+2019,HP,United States,56000,61900.0,153900.0,215800.0,Reported,663374.0,17466.0,Information and communication
+2020,HP,United States,53000,50600.0,120400.0,171000.0,Reported,604901.0,20260.0,Information and communication
+2021,HP,United States,51000,48700.0,110800.0,159500.0,Reported,697058.0,20760.0,Information and communication
